@@ -8,16 +8,9 @@ Examples of Data Science in Metallurgy and Mineral Processing
 
 ## Project 1 : Using Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln
 Create a tool that estimates LOI ( together with reactivity is a characteristic of how fast a material reacts) from Chemical Composition, Fuel Consumptions of P.C. & lpg and Feed Rate.TensorFlow with TensorBoard are used.  
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/56194024/111022767-8eb26880-83dd-11eb-9933-6a7be6aa20b3.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 https://www.eula.eu/about-lime-and-applications/production/kiln-types/ 
 <div class="container"><div class="vc_row vc_row_fluid "><div class="wpb_column agni_column_container agni_column vc_column_container vc_col-sm-12"><div class="agni_column-inner vc_column-inner text-left"><div class="section-column-bg-container section-column-bg-container-agni-column-52021 "><div class="section-column-bg section-column-bg-color "></div></div><div class="wpb_wrapper"><div id="agni-row-inner-47477" class="section-row-inner vc_inner "><div class="section-row-inner-bg-container section-row-inner-bg-container-agni-row-inner-47477"><div class="section-row-inner-bg section-row-inner-bg-color "></div></div><div class="vc_row vc_row_fluid vc_row-o-equal-height vc_row-flex"><div class="wpb_column agni_column_container vc_column_container vc_col-sm-6"><div class="section-column-bg-container section-column-bg-container-agni-column-31545"><div class="section-column-inner-bg section-column-inner-bg-color "></div></div><div class="agni_column-inner vc_column-inner text-left"><div class="wpb_wrapper"><div class=" agni-image custom-image-container text-left">
