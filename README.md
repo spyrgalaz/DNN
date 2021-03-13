@@ -18,7 +18,8 @@ Create a tool that estimates LOI ( together with reactivity is a characteristic 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.rotarykilnfactory.com/rotary-kiln-for-magnesium-oxide/) and ![Image](src)
+[Link](http://www.rotarykilnfactory.com/rotary-kiln-for-magnesium-oxide/) and ![Image](<div class="featured-image page-header-image  grid-container grid-parent">
+<img width="1100" height="400" src="http://www.rotarykilnfactory.com/wp-content/uploads/2019/07/rotary-kilnRotary-Kiln-For-Magnesium-Oxide-1.jpg" class="attachment-full size-full" alt="rotary kiln ror magnesium oxide for sale" loading="lazy" itemprop="image" srcset="http://www.rotarykilnfactory.com/wp-content/uploads/2019/07/rotary-kilnRotary-Kiln-For-Magnesium-Oxide-1.jpg 1100w, http://www.rotarykilnfactory.com/wp-content/uploads/2019/07/rotary-kilnRotary-Kiln-For-Magnesium-Oxide-1-300x109.jpg 300w, http://www.rotarykilnfactory.com/wp-content/uploads/2019/07/rotary-kilnRotary-Kiln-For-Magnesium-Oxide-1-768x279.jpg 768w, http://www.rotarykilnfactory.com/wp-content/uploads/2019/07/rotary-kilnRotary-Kiln-For-Magnesium-Oxide-1-1024x372.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px">)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
