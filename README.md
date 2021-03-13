@@ -2,9 +2,15 @@
 
 # Spyros_Portfolio
 
-# Data Science in Metallurgy and Mineral Processing
-# Project 1 : Using Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln
-Create a tool that estimates LOI ( together with reactivity is a characteristic of how fast a material reacts) from Chemical Composition, Fuel Consumptions of P.C. & lpg and Feed Rate.TensorFlow with TensorBoard are used.  
+## Data Science in Metallurgy and Mineral Processing
+* Data Preprocessing
+* Exploratory Analysis of Data Parameters
+* Decision Tree with Scikit-Learn
+* Building Data Pipeine with TensorFlow
+
+### Project 1 : Using Deep Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln with TensorFlow 
+
+Create a tool that estimates LOI ( together with reactivity is a characteristic parameter of how fast a material reacts) from Chemical Composition, Fuel Consumptions of P.C., lpg and Feed Rate.TensorFlow with TensorBoard are used.  
 
 ![image](https://user-images.githubusercontent.com/56194024/111022746-64f94180-83dd-11eb-9141-fd98612bbe62.png)
 
