@@ -19,6 +19,9 @@ Exploratory Analysis
 
 ![image](https://user-images.githubusercontent.com/56194024/111031051-5aa36b80-840e-11eb-8657-828ef08ec7c5.png)
 
+Train and Validation Loss - MAE vs Epochs
+
+![image](https://user-images.githubusercontent.com/56194024/111031274-562b8280-840f-11eb-93d9-ecd12cef0697.png)
 
 
 
