@@ -5,7 +5,7 @@ Examples of Data Science in Metallurgy and Mineral Processing
 
 
 
-# Rotary Kiln Project
+# Project 1 : Using Neural Network to predict Loss of Ignition (LOI)
 ## Header 2
 ### Header 3
 
