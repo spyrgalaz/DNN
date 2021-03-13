@@ -3,6 +3,7 @@
 # Spyros_Portfolio
 Examples of Data Science in Metallurgy and Mineral Processing
 
+![image](https://user-images.githubusercontent.com/56194024/111022746-64f94180-83dd-11eb-9141-fd98612bbe62.png)
 
 
 ## Project 1 : Using Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln
