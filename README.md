@@ -6,7 +6,7 @@ Examples of Data Science in Metallurgy and Mineral Processing
 
 
 ## Project 1 : Using Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln
-Create a tool that estimates LOI ( together with reactivity is a characteristic of how fast a material reacts) from Chemical Composition, Fuel Consumptions of P.C. & lpg, Feed Rate.TensorFlow with TensorBoard are used.  
+Create a tool that estimates LOI ( together with reactivity is a characteristic of how fast a material reacts) from Chemical Composition, Fuel Consumptions of P.C. & lpg and Feed Rate.TensorFlow with TensorBoard are used.  
 ## Header 2
 ### Header 3
 
