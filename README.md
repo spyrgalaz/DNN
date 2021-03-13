@@ -1,6 +1,7 @@
 
 
-# Spyros Data Science Portfolio
+# Spyros_Portfolio
+Examples of Data Science in Metallurgy and Mineral Processing
 
 
 
