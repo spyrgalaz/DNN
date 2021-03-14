@@ -19,7 +19,7 @@ TensorBoard Graphics, Joint Distributions with seaborn, Exploratory Analysis wit
 <p float="left">
   <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/joint_distributions.png' width=300  title='join distributions'/>
   <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=300 title='Data Exploratory Analysis' />
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=250 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
 </p>
 
 
