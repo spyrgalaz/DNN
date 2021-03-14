@@ -12,12 +12,11 @@
   In this project   a tool that predicts LOI as output  from Chemical Composition, Fuel Consumptions of P.C., lpg and Feed Rate as inputs.TensorFlow with TensorBoard are used.  
  
  
- ![image](https://user-images.githubusercontent.com/56194024/111066076-d6142400-84c5-11eb-8a63-cd99092393b3.png)
+![image](https://user-images.githubusercontent.com/56194024/111066076-d6142400-84c5-11eb-8a63-cd99092393b3.png)
 
 
-<p float="left">
-  
-</p>
+![image](https://user-images.githubusercontent.com/56194024/111068834-0c0bd500-84d3-11eb-9934-07064c8e5073.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/56194024/111068596-1c6f8000-84d2-11eb-9b9c-fe66378b4db9.png)
