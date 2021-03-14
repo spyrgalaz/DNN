@@ -13,14 +13,16 @@
  
  Tensorboard graphic model
  
- 
 ![image](https://user-images.githubusercontent.com/56194024/111066076-d6142400-84c5-11eb-8a63-cd99092393b3.png) 
  
- 
+ Joint Distributions with seaborn
 
 ![image](https://user-images.githubusercontent.com/56194024/111068834-0c0bd500-84d3-11eb-9934-07064c8e5073.png) 
 
+Exploratory Analysis with seaborn
+
 ![image](https://user-images.githubusercontent.com/56194024/111068890-41182780-84d3-11eb-915b-8ca6a3ba667d.png)
 
+Train/Test Loss vs Epoch, MAE vs Epochs
 
 ![image](https://user-images.githubusercontent.com/56194024/111068596-1c6f8000-84d2-11eb-9b9c-fe66378b4db9.png)
