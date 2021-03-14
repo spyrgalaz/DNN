@@ -23,5 +23,5 @@ TensorBoard Graphics
   <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=250 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
 </p>
 
-Joint Distributions with seaborn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploratory Analysis with seaborn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-Validation Loss-MAE vs Epochs with Tensorboard   
+
 
