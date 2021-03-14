@@ -13,16 +13,16 @@
 
 TensorBoard Graphics
  
- 
- 
-Exploratory Analysis    
+ ![image](https://user-images.githubusercontent.com/56194024/111066076-d6142400-84c5-11eb-8a63-cd99092393b3.png)
 
  
 
+|Data Exploratory Analysis with seaborn|Test-Validation Loss-MAE vs Epochs with Tensorboard |  
+|-----|------|
 
 <p float="left">
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 /> 
   <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=400 />
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 /> 
 </p>
 
 
