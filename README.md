@@ -21,9 +21,8 @@ Exploratory Analysis
 
 
 <p float="left">
-  < />
   <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 /> 
-  <img src=" width="200" />
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=400 />
 </p>
 
 
