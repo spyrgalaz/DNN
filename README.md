@@ -16,6 +16,7 @@ TensorBoard Graphics
  
 Exploratory Analysis
 
+![image](https://user-images.githubusercontent.com/56194024/111063937-048c0200-84ba-11eb-9cfd-b5505afeb900.png)
 
 
 Train and Validation Loss - MAE vs Epochs
