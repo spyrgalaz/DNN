@@ -21,6 +21,6 @@
 </p>
 
 
-<img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.png' width=200 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
+<img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
 
 ![image](https://user-images.githubusercontent.com/56194024/111068596-1c6f8000-84d2-11eb-9b9c-fe66378b4db9.png)
