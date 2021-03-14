@@ -17,7 +17,7 @@ TensorBoard Graphics
 
  
 
- Exploratory Analysis with seaborn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-Validation Loss-MAE vs Epochs with Tensorboard   
+Exploratory Analysis with seaborn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-Validation Loss-MAE vs Epochs with Tensorboard   
 
 
 
