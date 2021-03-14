@@ -16,8 +16,7 @@
 
 
 <p float="left">
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/joint_distributions.png' width=400 title='join distributions' />
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=400 title='Data Exploratory Analysis' />
+  
 </p>
 
 
