@@ -15,8 +15,8 @@
  ![image](https://user-images.githubusercontent.com/56194024/111066076-d6142400-84c5-11eb-8a63-cd99092393b3.png)
 
 <p float="left">
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/joint_distributions.png' width=300 title='join distributions' />
-  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=300 title='Data Exploratory Analysis' />
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/joint_distributions.png' width=400 title='join distributions' />
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/plot8.png' width=400 title='Data Exploratory Analysis' />
 </p>
 
 <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 title='Test-Validation Loss-MAE vs Epochs with Tensorboard' /> 
