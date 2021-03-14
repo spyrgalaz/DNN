@@ -16,13 +16,14 @@ TensorBoard Graphics
  
 Exploratory Analysis    
 
-![image](https://user-images.githubusercontent.com/56194024/111063937-048c0200-84ba-11eb-9cfd-b5505afeb900.png)     
-
-Train and Validation Loss - MAE vs Epochs
-
-![image](https://user-images.githubusercontent.com/56194024/111031274-562b8280-840f-11eb-93d9-ecd12cef0697.png)
+   
 
 
 
+<p float="left">
+  < />
+  <img src='https://github.com/spyrgalaz/DNN_RK/blob/main/metallurgy/DNN_RK_LOSS.PNG' width=200 /> 
+  <img src=" width="200" />
+</p>
 
 
