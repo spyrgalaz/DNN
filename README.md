@@ -35,3 +35,16 @@
 ### Predictive Model for Software Failure using LSTM  and Comparison with SARIMA
 This problem comprised of a single series of observations and model is required to learn from the series of past observations to predict the next value in the sequence.
 The model demonstrates better outcames from the classical autoreggressive model like Arima and Simple Dense Neural Networks.SARIMA model results are given in order to understand the differences between them.
+
+<table>
+  <tr>
+     <td>Graphical Summary</td>
+     <td>Sarima</td>
+     <td>LSTM</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/56194024/111068834-0c0bd500-84d3-11eb-9934-07064c8e5073.png" width="350"></td>
+    <td><img src="https://user-images.githubusercontent.com/56194024/111068596-1c6f8000-84d2-11eb-9b9c-fe66378b4db9.png" width="350"/></td>
+    <td><img src="https://user-images.githubusercontent.com/56194024/111068890-41182780-84d3-11eb-915b-8ca6a3ba667d.png" width="350"/></td>
+  </tr>
+ </table>
