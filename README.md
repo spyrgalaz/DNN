@@ -50,7 +50,7 @@ The model demonstrates better outcames from the classical autoreggressive model 
   </tr>
  </table>
 
-## Regression Analysis with PySpark
+## Linear Regression Analysis for Flight Delays with PySpark in Google-Colab
 * Run spark in Colab-install the dependencies
 * Data Preprocessing with pyspark.ml 
 * Building Data Pipeline for Linear regression in order to predict delays in airports from multiple features
