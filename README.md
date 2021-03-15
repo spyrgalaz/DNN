@@ -32,6 +32,6 @@
 * Data Preprocessing
 * Building Data Pipeline with TensorFlow tf.Data
 
-### Predictive Model for Software Failure using LSTM  
+### Predictive Model for Software Failure using LSTM  and Comparison with SARIMA
 This problem comprised of a single series of observations and model is required to learn from the series of past observations to predict the next value in the sequence.
-The model demonstrates better outcames from the classical autoreggressive model like Arima and Simple Dense Neural Networks.
+The model demonstrates better outcames from the classical autoreggressive model like Arima and Simple Dense Neural Networks.SARIMA model results are given in order to understand the differences between them.
