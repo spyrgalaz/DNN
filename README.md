@@ -29,8 +29,9 @@
  </table>
 
 ## Timeseries Analysis 
-* Data Preprocessing
-* Building Data Pipeline with TensorFlow tf.Data
+* Data Preprocessing with Pandas
+* Building SARIMA model with pdarima
+* Building Data Pipeline with TensorFlow tf.data
 
 ### Predictive Model for Software Failure using LSTM  and Comparison with SARIMA
 This problem comprised of a single series of observations and model is required to learn from the series of past observations to predict the next value in the sequence.
