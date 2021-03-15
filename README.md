@@ -50,4 +50,7 @@ The model demonstrates better outcames from the classical autoreggressive model 
   </tr>
  </table>
 
-
+## Regression Analysis with PySpark
+* Run spark in Colab-install the dependencies
+* Data Preprocessing with pyspark.ml 
+* Building Data Pipeline for Linear regression in order to predict delays in airports from multiple features
