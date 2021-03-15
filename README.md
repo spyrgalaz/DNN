@@ -17,9 +17,9 @@
 
 <table>
   <tr>
-    <td> Joint Distributions with seaborn</td>
-     <td>Exploratory Analysis with seaborn</td>
+     <td>Joint Distributions with seaborn</td>
      <td>Train/Test Loss vs Epochs, MAE vs Epochs</td>
+     <td>Exploratory Analysis with seaborn</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/56194024/111068834-0c0bd500-84d3-11eb-9934-07064c8e5073.png" width="350"></td>
