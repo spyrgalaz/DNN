@@ -44,8 +44,9 @@ The model demonstrates better outcames from the classical autoreggressive model 
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/56194024/111117853-bf76d700-8570-11eb-8f8b-1f2153f56538.png" width="350"></td>
-    <td><img src="https://user-images.githubusercontent.com/56194024/111068596-1c6f8000-84d2-11eb-9b9c-fe66378b4db9.png" width="350"/></td>
+    <td><img src="https://user-images.githubusercontent.com/56194024/111118042-f5b45680-8570-11eb-9ea9-bb00fd4b417a.png" width="350"/></td>
     <td><img src="https://user-images.githubusercontent.com/56194024/111068890-41182780-84d3-11eb-915b-8ca6a3ba667d.png" width="350"/></td>
   </tr>
  </table>
+
 
