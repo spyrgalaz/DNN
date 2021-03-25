@@ -59,6 +59,6 @@ The model demonstrates better outcames from the classical autoreggressive models
 
 ## Automated Machine Learning workflow using genetic algorithms with TPOT and scikit learn
 
-TPOT is an open-source library for autopmatically discovering best performing models for regression and classification.
+TPOT is an open-source library that automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 The dataset involves predicting whether sonar returns indicate a rock or simulated mine.
 Test harness of repeated stratified 10-fold-cross-validation is used.
