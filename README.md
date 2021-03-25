@@ -55,10 +55,12 @@ The model demonstrates better outcames from the classical autoreggressive models
 * Data Preprocessing with pyspark.ml 
 * Building Data Pipeline for Linear regression in order to predict delays in airports from multiple features
 
-<img src='https://user-images.githubusercontent.com/56194024/111155106-ae43bf80-859c-11eb-8fd3-677870785aaf.png' width="350">
+<img src='https://user-images.githubusercontent.com/56194024/111155106-ae43bf80-859c-11eb-8fd3-677870785aaf.png' width="270">
 
 ## Automated Machine Learning workflow using genetic algorithms with TPOT and scikit learn
 
 TPOT is an open-source library that automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 The dataset involves predicting whether sonar returns indicate a rock or simulated mine.
 Test harness of repeated stratified 10-fold-cross-validation is used.
+
+!<img src='https://user-images.githubusercontent.com/56194024/112471510-ac37e880-8d74-11eb-8f49-d392414d206d.png' width="270">
