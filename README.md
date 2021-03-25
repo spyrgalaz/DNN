@@ -57,3 +57,8 @@ The model demonstrates better outcames from the classical autoreggressive models
 
 <img src='https://user-images.githubusercontent.com/56194024/111155106-ae43bf80-859c-11eb-8fd3-677870785aaf.png' width="350">
 
+## Automated Machine Learning workflow using genetic algorithms with TPOT and scikit learn
+
+TPOT is an open-source library for autopmatically discovering best performing models for regression and classification.
+The dataset involves predicting whether sonar returns indicate a rock or simulated mine.
+Test harness of repeated stratified 10-fold-cross-validation is used.
