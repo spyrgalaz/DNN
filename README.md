@@ -9,7 +9,7 @@
 
 ### Using Deep Neural Network to predict Loss of Ignition (LOI) in Rotary Kiln with TensorFlow 
   Loss of Ignition along with reactivity are  critical parameters which control how fast a material reacts in a range of applications.
-  In this project a tool is developed in order to  predict LOI as output  from Chemical Composition, Fuel Consumptions of P.C., lpg and Feed Rate as inputs. TensorFlow with TensorBoard are used.  
+  In this project a tool is developed in order to  predict LOI.Chemical Composition, Consumptions of P.C. - lpg and Feed Rate were selected as input parameters. TensorFlow with TensorBoard are used.  
  
  Tensorboard graphic model
  
