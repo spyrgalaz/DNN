@@ -67,3 +67,7 @@ Test harness of repeated stratified 10-fold-cross-validation is used.
 
 ## Bitcoin Web Scraping with Beautiful Soup on Colab
 
+Heatmap for feature extraction.
+
+<img src='https://user-images.githubusercontent.com/56194024/112744758-86e0ef80-8fab-11eb-8ee1-c5e9be8d1256.png' width="270">
+
