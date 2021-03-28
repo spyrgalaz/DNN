@@ -64,3 +64,6 @@ The dataset involves predicting whether sonar returns indicate a rock or simulat
 Test harness of repeated stratified 10-fold-cross-validation is used.
 
 !<img src='https://user-images.githubusercontent.com/56194024/112471510-ac37e880-8d74-11eb-8f49-d392414d206d.png' width="270">
+
+## Bitcoin Web Scraping with Beautiful Soup on Colab
+
