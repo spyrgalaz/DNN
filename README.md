@@ -71,3 +71,8 @@ Heatmap for feature extraction.
 
 <img src='https://user-images.githubusercontent.com/56194024/112744758-86e0ef80-8fab-11eb-8ee1-c5e9be8d1256.png' width="270">
 
+
+## What Is the Sharpe Ratio?
+The Sharpe ratio was developed by Nobel laureate William F. Sharpe and is used to help investors understand the return of an investment compared to its risk. The ratio is the average return earned in excess of the risk-free rate per unit of volatility or total risk. Volatility is a measure of the price fluctuations of an asset or portfolio.
+
+The Sharpe ratio is usually calculated for a portfolio and uses the risk-free interest rate as benchmark. We will simplify our example and use stocks instead of a portfolio. We will also use a stock index as benchmark rather than the risk-free interest rate because both are readily available at daily frequencies and we do not have to get into converting interest rates from annual to daily frequency.
